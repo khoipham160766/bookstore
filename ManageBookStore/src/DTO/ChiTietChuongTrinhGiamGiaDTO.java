@@ -48,6 +48,6 @@ public class ChiTietChuongTrinhGiamGiaDTO {
     }
     
     public static void main (String []args){
-        System.out.print("aaaabbbbcccc");
+        System.out.print("aaaabbbbccccdddd");
     }
 }
