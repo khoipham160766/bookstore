@@ -47,5 +47,7 @@ public class ChiTietChuongTrinhGiamGiaDTO {
         this.MaSach = MaSach;
     }
     
-    
+    public static void main (String []args){
+        System.out.print("aaaabbbbcccc");
+    }
 }
